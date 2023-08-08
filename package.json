@@ -1,0 +1,21 @@
+{
+  "name": "kwilextention",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build":"tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "ethers": "^6.7.0",
+    "kwil-extensions": "^0.0.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
